@@ -19,8 +19,7 @@ httpx
 requests
 fade
 
-#You can install these dependencies using pip:
-#pip install -r requirements.txt
+#You can install these dependencies using pip: pip install -r requirements.txt
 
 Usage
 Clone or download the repository to your local machine
